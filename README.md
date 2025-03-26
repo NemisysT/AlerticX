@@ -1,4 +1,4 @@
-# Alertic - Real-Time Climate Alerts & Disaster Warnings 🌍⚡
+# AlerticX - Real-Time Climate Alerts & Disaster Warnings 🌍⚡
 
 Alertic is a real-time climate monitoring and disaster alert platform built with **Next.js**. It provides **live weather updates, natural disaster warnings, and emergency response resources** to help individuals and communities stay informed and prepared.
 
