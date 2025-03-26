@@ -1,8 +1,8 @@
 import Link from "next/link"
 import { ArrowRight, CloudLightning, Droplets, Flame, Shield } from "lucide-react"
-import  Hyperspeed  from "../src/blocks/Backgrounds/Hyperspeed/Hyperspeed"
-import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import  Hyperspeed  from "../blocks/Backgrounds/Hyperspeed"
+import { Button } from "../components/ui/button"
+import { Card, CardContent, CardHeader, CardTitle } from "../components/ui/card"
 
 export default function HomePage() {
   return (
