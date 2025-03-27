@@ -56,5 +56,5 @@ This project is licensed under the **MIT License**.
 
 ---
 Stay alert, stay safe! 🌱🌪️🔥  
-📌 **[\[GitHub Repo Link\]](https://github.com/NemisysT/Alertic.git)**
+📌 **[\[GitHub Repo Link\]](https://github.com/NemisysT/AlerticX.git)**
 
