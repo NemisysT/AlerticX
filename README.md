@@ -1,6 +1,6 @@
 # AlerticX - Real-Time Climate Alerts & Disaster Warnings 🌍⚡
 
-Alertic is a real-time climate monitoring and disaster alert platform built with **Next.js**. It provides **live weather updates, natural disaster warnings, and emergency response resources** to help individuals and communities stay informed and prepared.
+AlerticX is a real-time climate monitoring and disaster alert platform built with **Next.js**. It provides **live weather updates, natural disaster warnings, and emergency response resources** to help individuals and communities stay informed and prepared.
 
 ## 🚀 Features 🌎💡
 ✅ **Hyper-Local Climate Impact Reports** [WIP🚧]- AI-driven personalized insights on how climate events affect specific regions and communities.  
@@ -19,9 +19,8 @@ Alertic is a real-time climate monitoring and disaster alert platform built with
 - WebSockets (Real-time updates)
 
 ### **Backend:** *(WIP 🚧)*
-- Node.js & Express (API Backend - Under Development)
-- MongoDB / PostgreSQL (Database - To be implemented)
-- Firebase / Twilio (Notifications - Planned)
+- SuperBase (API Backend)
+- PostgreSQL (Database)
 
 ## 📦 Installation & Setup
 1. Clone the repository:
@@ -56,5 +55,5 @@ This project is licensed under the **MIT License**.
 
 ---
 Stay alert, stay safe! 🌱🌪️🔥  
-📌 **[\[GitHub Repo Link\]](https://github.com/NemisysT/AlerticX.git)**
+📌 **[\[GitHub Repo Link\]](https://github.com/NemisysT/Alertic.git)**
 
